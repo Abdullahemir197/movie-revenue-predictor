@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/92336/Desktop/movie_rev/mlruns/0/models/m-1e963056b2d84276b454b911bd110da6/artifacts
+creation_timestamp: 1750151669684
+experiment_id: '0'
+last_updated_timestamp: 1750151677867
+model_id: m-1e963056b2d84276b454b911bd110da6
+model_type: null
+name: model
+source_run_id: a2ec09a347c747d796b330b1cca84003
+status: 2
+status_message: null

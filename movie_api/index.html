@@ -1,0 +1,19 @@
+<!-- movie_api/index.html -->
+<!DOCTYPE html>
+<html>
+<head><title>Movie Revenue Predictor</title></head>
+<body>
+  <h1>Welcome to Movie Revenue Predictor 🎬</h1>
+  <form action="/predict" method="post">
+    <label>Budget:</label>
+    <input name="budget" type="number" step="any"><br><br>
+    <label>Popularity:</label>
+    <input name="popularity" type="number" step="any"><br><br>
+    <label>Runtime:</label>
+    <input name="runtime" type="number" step="any"><br><br>
+    <label>Vote Average:</label>
+    <input name="vote_average" type="number" step="any"><br><br>
+    <button type="submit">Predict</button>
+  </form>
+</body>
+</html>
